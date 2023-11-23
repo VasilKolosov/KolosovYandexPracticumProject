@@ -11,13 +11,13 @@
         Таблицы принятия решений | Парное тестирование | Баг-репорты.
 
 Тестирование мобильных приложений:
-        Матрица устройств | Эмуляторы | Android Studio
+        Матрица устройств | Эмуляторы | Android Studio.
 
 Тестирование API:
-        REST API | JSON | Postman
+        REST API | JSON | Postman.
 
 Тестирование баз данных:
-        Консоль | SQL | PostgreSQL
+        Консоль | SQL | PostgreSQL.
 
 Основы автоматизации тестирования:
-        JavaScript | NodeJS | Puppeteer
+        JavaScript | NodeJS | Puppeteer.
